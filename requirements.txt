@@ -3,4 +3,3 @@ guestfs
 
 --find-links 'http://download.libguestfs.org/python#egg=guestfs'
 --trusted-host 'download.libguestfs.org'
--e .
