@@ -8,7 +8,7 @@ or in a qcow2 image with backing chains to mimic the docker layers.
 Dependencies
 ------------
 
- * python 2 or 3
+ * python 3
  * skopeo
  * virt-sandbox
  * libguestfs python binding
