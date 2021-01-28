@@ -1,5 +1,4 @@
 passlib>=1.6.1
 guestfs
 
---find-links 'http://download.libguestfs.org/python#egg=guestfs'
---trusted-host 'download.libguestfs.org'
+--find-links 'https://download.libguestfs.org/python#egg=guestfs'
